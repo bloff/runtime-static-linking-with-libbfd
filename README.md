@@ -18,6 +18,13 @@ Static linking does away with one level of indirection, which should make code r
 
 Dynamic vs static linking is like using function pointers vs normal function calls.
 
+How to use
+-----------
+
+run:
+	make
+	./main
+
 Portability
 -------------
 
