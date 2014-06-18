@@ -22,8 +22,9 @@ How to use
 -----------
 
 run:
-	make
-	./main
+	
+> make
+> ./main
 	
 On a linux platform with gcc, binutils and binutils-dev. In principle, it should work on any posix environment where GCC uses the ELF binary format for its object files.
 
